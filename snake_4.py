@@ -2,8 +2,6 @@ import random
 import sys
 import tkinter as tk
 
-import unko
-
 root = tk.Tk()
 root.title('Snake')
 root.geometry('460x420')
