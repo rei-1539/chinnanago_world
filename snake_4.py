@@ -1,6 +1,7 @@
 import random
 import sys
 import tkinter as tk
+tintin
 
 root = tk.Tk()
 root.title('Snake')
